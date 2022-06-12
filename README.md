@@ -13,3 +13,6 @@
 `npx jest --init`
 
 `npm i uuid @types/uuid`
+
+`npm i sequelize reflect-metadata sequelize-typescript`
+`npm i sqlite3`
