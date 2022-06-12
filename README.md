@@ -11,3 +11,5 @@
 `npm i -D jest @types/jest ts-node --save-dev`
 `npm i -D @swc/jest @swc/cli @swc/core`
 `npx jest --init`
+
+`npm i uuid @types/uuid`
