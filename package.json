@@ -4,6 +4,7 @@
     "@swc/core": "^1.2.198",
     "@swc/jest": "^0.2.21",
     "@types/jest": "^28.1.1",
+    "@types/mocha": "^9.1.1",
     "jest": "^28.1.1",
     "ts-node": "^10.8.1",
     "tslint": "^6.1.3",
